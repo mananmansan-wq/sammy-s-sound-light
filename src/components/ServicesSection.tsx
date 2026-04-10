@@ -3,8 +3,8 @@ import { Speaker, Lightbulb, Disc3, Mic, Music2, Package } from "lucide-react";
 
 const services = [
   { icon: Speaker, title: "Sonido Profesional", desc: "Equipos de alta fidelidad para cualquier tamaño de evento." },
-  { icon: Lightbulb, title: "Luces y Efectos", desc: "Iluminación LED, láser, strobo y máquina de humo." },
-  { icon: Disc3, title: "DJ y Animación", desc: "DJ profesional con la mejor música y animación en vivo." },
+  { icon: Lightbulb, title: "iluminacion y diseño luminico", desc: "Iluminación LED, láser, strobos y máquinas de humo." },
+  { icon: Disc3, title: "DJ y Animación", desc: "DJ profesional con la mejor música y  en vivo." },
   { icon: Mic, title: "Micrófonos Inalámbricos", desc: "Micrófonos de calidad para discursos, karaoke y más." },
   { icon: Music2, title: "Música para Todo Evento", desc: "Bodas, XV años, cumpleaños, graduaciones y corporativos." },
   { icon: Package, title: "Renta de Equipo", desc: "Renta de bocinas, consolas, luces y más equipo profesional." },
@@ -20,7 +20,7 @@ const ServicesSection = () => (
         className="text-center mb-12"
       >
         <h2 className="font-heading text-4xl sm:text-5xl tracking-wider text-primary neon-text-pink mb-2">
-          NUESTROS SERVICIOS
+          SERVICIOS AUDIOVISUALES PROFESIONALES
         </h2>
         <div className="w-24 h-1 gradient-party-bg mx-auto rounded-full" />
       </motion.div>
