@@ -15,7 +15,7 @@ const HeroSection = () => (
       className="relative z-10 text-center px-4 max-w-3xl"
     >
       <h1 className="font-heading text-6xl sm:text-8xl md:text-9xl tracking-wider neon-text-pink text-primary mb-4">
-        SONIDO SAMMY
+        CORPORATIVO SAMMY
       </h1>
       <p className="text-lg sm:text-xl text-foreground/80 mb-8 font-light">
         ¡La mejor música y ambiente para tu evento!
