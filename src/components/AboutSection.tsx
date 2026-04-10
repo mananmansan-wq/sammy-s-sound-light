@@ -20,11 +20,11 @@ const AboutSection = () => (
         </div>
         <div className="w-24 h-1 gradient-party-bg mx-auto rounded-full mb-8" />
         <p className="text-foreground/70 text-lg leading-relaxed max-w-2xl mx-auto">
-          En <span className="text-primary font-semibold">Sonido Sammy</span> nos especializamos en ofrecer el mejor servicio de sonido, iluminación y entretenimiento para todo tipo de eventos. Bodas, XV años, cumpleaños, fiestas corporativas, graduaciones y más. Con equipo profesional de última generación y la mejor actitud, hacemos que cada evento sea una experiencia inolvidable.
+          En <span className="text-primary font-semibold">Sonido Sammy</>  En Corporativo Sammy somos líderes en producción audiovisual, nos especializamos en soluciones integrales para eventos masivos y corporativos. Contamos con tecnología de vanguardia en iluminación, audio profesional y pantallas de última generación, diseñadas para escenarios de alto impacto. Transformamos sus eventos empresariales, conciertos y convenciones en experiencias inolvidables con calidad de nivel supe
         </p>
         <div className="flex items-center justify-center gap-2 mt-6 text-neon-purple">
           <Music className="w-5 h-5" />
-          <span className="font-medium">Tu fiesta, nuestra pasión</span>
+          <span className="font-medium">Tu evento,nuestra pasion</span>
           <Music className="w-5 h-5" />
         </div>
       </motion.div>
